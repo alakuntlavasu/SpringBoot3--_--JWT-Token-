@@ -1,0 +1,14 @@
+package com.user.serviceimpl;
+
+import com.user.modal.User;
+import com.user.service.IUserService;
+
+public class UserServiceimpl implements IUserService {
+
+	@Override
+	public Integer saveUser(User user) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
